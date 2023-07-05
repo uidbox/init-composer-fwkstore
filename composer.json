@@ -1,0 +1,13 @@
+{
+  "name": "fwkstore/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/fwkstore",
+  "keywords": ["FWKStore", "init-composer"],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
